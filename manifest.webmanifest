@@ -1,0 +1,16 @@
+{
+  "name": "The Writing Agency India",
+  "short_name": "TWA India",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#3157d5",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
